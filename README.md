@@ -1,4 +1,5 @@
 # You-Tube-Video-Category-Classification-using-Machine-Learning
+![alt text](https://raw.githubusercontent.com/kkaran0908/You-Tube-Video-Category-Classification-using-Machine-Learning/master/youtube.jpg)
 ### Steps and Models used
 -  Scrap the data from youtube.
 - Preproess the data
